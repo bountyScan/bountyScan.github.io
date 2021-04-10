@@ -1,2 +1,2 @@
 # bountyScan.github.io
-my website
+dissertation project
